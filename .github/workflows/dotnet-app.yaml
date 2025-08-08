@@ -21,10 +21,14 @@ jobs:
           dotnet-version: '8.0.x'  # use your desired Node version
 
       - name: Restore dependancies
-        run: dotnet restore
+        run: |
+          cd dotnet-app
+          dotnet restore
 
       - name: Build solution
-        run: dotnet build --no-restore
+        run: |
+          cd dotnet-app
+          dotnet build --no-restore
 
       - name: Run app
         run: dotnet run dotnet-app/dotnet-app.csproj
