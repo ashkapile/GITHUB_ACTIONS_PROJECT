@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\bin\Debug\net7.0\dotnet-app.exe
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\bin\Debug\net7.0\dotnet-app.deps.json
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\bin\Debug\net7.0\dotnet-app.runtimeconfig.json
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\bin\Debug\net7.0\dotnet-app.dll
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\bin\Debug\net7.0\dotnet-app.pdb
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\dotnet-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\dotnet-app.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\dotnet-app.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\dotnet-app.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\dotnet-app.sourcelink.json
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\dotnet-app.dll
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\refint\dotnet-app.dll
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\dotnet-app.pdb
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\dotnet-app.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Projects\Github_Actions_Project\dotnet-app\obj\Debug\net7.0\ref\dotnet-app.dll
