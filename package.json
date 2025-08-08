@@ -1,15 +1,11 @@
-// {
-//   "name": "nodejs-app",
-//   "version": "1.0.0",
-//   "description": "A simple Node.js HTTP server",
-//   "main": "index.js",
-//   "scripts": {
-//     "start": "node index.js"
-//   },
-//   "author": "Your Name",
-//   "license": "MIT"
-// }
-
-"scripts": {
-  "start": "node index.js"
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js HTTP server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
 }
